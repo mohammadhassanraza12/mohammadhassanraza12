@@ -6,7 +6,7 @@
 - 🚀 Recent builds: **KodBank** (Java/Spring Boot/MySQL/React banking app), an **LMS platform** (Node.js/Express/Next.js/MongoDB), and an **AI-Powered Exam Evaluation System**
 - 💞️ Open to collaborating on civic-tech, fintech, and Islamic utility app projects
 - 📫 Reach me at: **[your email/LinkedIn here]**
-- ⚡ Fun fact: I'm juggling software dev job hunting *and* prepping for SSC CGL 2026 at the same time 😄
+- ⚡ Fun fact: I'm juggling software dev job hunting 😄
 
 <!---
 mohammadhassanraza12/mohammadhassanraza12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
