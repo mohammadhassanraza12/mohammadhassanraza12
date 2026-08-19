@@ -4,7 +4,7 @@
 - 💻 Full-stack developer working with **Java, Spring Boot, MySQL, React, Node.js, Express, Next.js, MongoDB** and JWT-based auth
 - 🌱 Currently sharpening my backend engineering skills and exploring AI-powered tooling (built a permission-based AI desktop assistant using FastAPI + Electron + Claude API)
 - 🚀 Recent builds: **KodBank** (Java/Spring Boot/MySQL/React banking app), an **LMS platform** (Node.js/Express/Next.js/MongoDB), and an **AI-Powered Exam Evaluation System**
-- 💞️ Open to collaborating on civic-tech, fintech, and Islamic utility app projects
+- 💞️ Open to collaborating on civic-tech, fintech, and  projects
 - 📫 Reach me at: **[your email/LinkedIn here]**
 - ⚡ Fun fact: I'm juggling software dev job hunting 😄
 
